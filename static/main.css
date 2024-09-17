@@ -36,6 +36,28 @@ a:active {
     color: #0270e6;
 }
 
+a.line,
+a.facebook {
+    margin: 0px;
+    font-size: 34px;
+}
+
+a.line:link,
+a.line:visited,
+a.line:hover,
+a.line:active {
+    text-decoration: none;
+    color: #48a748;
+}
+
+a.facebook:link,
+a.facebook:visited,
+a.facebook:hover,
+a.facebook:active {
+    text-decoration: none;
+    color: #0866ff;
+}
+
 footer {
     color: #fff;
     position: absolute;
@@ -300,6 +322,7 @@ p.texti-plan0 span {
 
 /* custom jumbotron */
 .jumbotron-section,
+.jumbotron-lineme,
 .jumbotron-facebook,
 .jumbotron-dark {
     color: #fff;
@@ -310,6 +333,7 @@ p.texti-plan0 span {
 }
 
 .jumbotron-section h2,
+.jumbotron-lineme h2;
 .jumbotron-facebook h2,
 .jumbotron-dark h2 {
     font-size: 32px !important;
@@ -341,7 +365,7 @@ hr.section-start {
     background-color: #311201;
 }
 
-.jumbotron-lineat {
+.jumbotron-lineme {
     background-color: #01a201;
 }
 
