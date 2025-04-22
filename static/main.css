@@ -59,7 +59,7 @@ a.facebook:active {
 }
 
 .navbar-main {
-    height: 70px;
+    height: 65px;
     background-color: #fff !important;
     border-bottom: solid 1px var(--main-color);
 }
