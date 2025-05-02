@@ -2,7 +2,7 @@
   --main-color: #318793;
   --erp-color: #10555f;
   --vice-color: #333;
-  --services-color: #2e74b5;
+  --service-color: #2e74b5;
   --clients-color: #98189c;
 }
 
@@ -509,7 +509,7 @@ hr.section-start {
     border-width: 5px;
 }
 
-.bg-erpplan1 {
+.bg-erpplan {
     background-color: var(--erp-color);
 }
 
@@ -517,8 +517,8 @@ hr.section-start {
     background-color: var(--vice-color);
 }
 
-.bg-services {
-    background-color: var(--services-color);
+.bg-service {
+    background-color: var(--service-color);
 }
 
 .bg-clients {
