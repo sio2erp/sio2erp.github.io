@@ -152,6 +152,10 @@ a.facebook:active {
     font-size: 36px;
 }
 
+.font-loud small {
+    font-size: 0.7em;
+}
+
 .texti-main {
     color: var(--main-color);
 }
